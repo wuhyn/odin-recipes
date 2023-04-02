@@ -1,3 +1,21 @@
 * {
     font-family: 'Georgia', 'Verdana', sans-serif;
+    
+}
+
+body {
+    background-color:  #e6f5ff;
+}
+
+.recipe img {
+    height: auto;
+    width: 500px;
+}
+
+.recipe p {
+    font-size: 20px;
+}
+
+.recipe li{
+    font-size: 20px;
 }
